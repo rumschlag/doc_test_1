@@ -1,6 +1,4 @@
 # Instructions B
-## 2# heading test
-### 3# heading test
 
 *Here we will discuss how to perform the procedure*
 
